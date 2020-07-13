@@ -1,2 +1,2 @@
 # DataScience-
-DataScience Complete Coursr
+DataScience Complete Course
